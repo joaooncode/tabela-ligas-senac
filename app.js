@@ -4,8 +4,8 @@ const dados = {
       "série A": {
         Times: {
           Flamengo: ["Gabigol", "Arrascaeta"],
-          Palmeiras: ["Dudu", "Scarpa"],
-          ABC: ["kingNildo", "Golden Boy"],
+          Palmeiras: ["Dudu", "Thiago Scarpa"],
+          ABC: ["Cássio", "Guilherme"],
         },
       },
       "série B": {
@@ -16,8 +16,8 @@ const dados = {
       },
       "série C": {
         Times: {
-          SenacFc: ["Arthur", "ArthurTwo"],
-          ArthurFc: ["Gruta", "Groundoum"],
+          SenacFc: ["Arthur", "Rivaldo"],
+          ArthurFc: ["Bruno", "Groundoum"],
         },
       },
       "série D": {
@@ -32,36 +32,20 @@ const dados = {
     ligas: {
       "Premier League": {
         Times: {
-          Liverpool: ["Salah", "Mane"],
-          River: ["Habbib's", "cuDoce"],
+          Liverpool: ["Salah", "MacCallister"],
+          River: ["Augusto", "João"],
         },
       },
       Champions: {
         Times: {
           "Real Madrid": ["Vini Jr", "Endrick"],
-          "Atlético de Madrid": ["Messi", "Cristiano Ronaldo"],
+          "Atlético de Madrid": ["Griezmann", "Cristiano Ronaldo"],
         },
       },
       "La liga": {
         Times: {
           "Villa Real": ["Neymar", "McDonald's"],
           "Villa Nova": ["Casa", "Apartamento"],
-        },
-      },
-    },
-  },
-  Espanha: {
-    ligas: {
-      "Liga One": {
-        Times: {
-          "The One": ["Champion", "notChampion"],
-          "The Second": ["secondChampion", "notAllow"],
-        },
-      },
-      "Liga Twice": {
-        Times: {
-          Solo: ["Sozin", "solito"],
-          Cotcho: ["Cochin", "Cochado"],
         },
       },
     },
